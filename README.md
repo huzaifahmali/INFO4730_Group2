@@ -1,25 +1,27 @@
-DATA TO UPLOAD
+# AI-Driven Digital Archiving Metadata Collection
 
-Project Purpose:
+This dataset contains metadata for 15 digital archival items collected from three sources:
 
-Huzaifah Ali:
-Metadata Sources: 
-Metadata Fields:
+- Europeana (5 items)
+- Internet Archive (5 items)
+- Open Library (5 items)
 
-Cal Gonzales:
-Metadata Sources: 
-Metadata Fields:
+## Fields Included
+- Title
+- Author/Creator
+- Date of Creation
+- Description
+- Keywords/Tags
+- Source
+- License Type
 
-Jonathan Portillo:
-Metadata Sources: 
-Metadata Fields:
+## Purpose
+This dataset was gathered for a Data Curation and Preservation class project to compare how different digital archives structure and present metadata, and to evaluate consistency and completeness across platforms.
 
-Denzel Chike:
-Metadata Sources: 
-Metadata Fields:
+## Notes
+- Keywords/Tags were only included when explicitly provided by the archive source.
+- License Type varies; check the archive page for full rights information.
 
-Valeria Maldonado:
-Metadata Sources: 
-Metadata Fields:
-
+## License
+This dataset is shared for educational purposes only.
 
